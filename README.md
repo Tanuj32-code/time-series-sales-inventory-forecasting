@@ -24,3 +24,15 @@ Interactive dashboard includes:
 (Dashboard PDF included in repo for quick viewing)
 
 # How to Run
+1. Clone the repository:
+   '''bash git clone https://github.com/Tanuj32-code/time-series-sales-inventory-forecasting.git
+2. Open the notebook in Google Colab or Jupyter.
+3. Install required libraries:
+   '''bash pip install pandas numpy matplotlib xgboost prophet statsmodels
+4. Run cells sequentially to generate forecasts.
+5. Open the Power BI dashboard for visualization.
+
+# Business Impact
+- Improved forecast accuracy reduces overstock/understock situations.
+- Automated replenishment planning ensures smoother supply chain operations.
+- Dashboard provides executive-level insights for decision-making.
