@@ -1,4 +1,4 @@
-## Time-Series-Sales-Inventory-Forecasting
+## Time-Series-Sales-&-Inventory-Forecasting
 
 # Overview
 This project focuses on time-series forecasting of retail sales and inventory using multiple statistical and machine learning models. The goal is to improve demand prediction, inventory planning, and replenishment scheduling with high accuracy and actionable insights.
