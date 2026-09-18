@@ -4,7 +4,7 @@
 This project focuses on time-series forecasting of retail sales and inventory using multiple statistical and machine learning models. The goal is to improve demand prediction, inventory planning, and replenishment scheduling with high accuracy and actionable insights.
 
 # Repository Contents
-- 'Project_3_Time_Series_Sales_and_Inventory_Forecasting.ipynb' -> Colab Notebook
+- Project_3_Time_Series_Sales_and_Inventory_Forecasting.ipynb -> Colab Notebook
 - 'forecast_timeseries.csv' -> Power BI dashboard
 - 'README.md' -> Project documentation
 - 'forecast_output.csv' -> Forecasted values for transparency
